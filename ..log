@@ -1,0 +1,27 @@
+2023-10-31T10:09:27.930+0800	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+2023-10-31T10:09:46.228+0800	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+31000/09/1010 - 10:26:35.009	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+31000/09/1010 - 10:27:08.379	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!
+31000/09/1010 - 10:29:39.784	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!
+31000/09/1010 - 10:29:39.784	info	/home/x14n/code/goproj/x14n/x14n-gin-api/main.go:14	server start
+31000/09/1010 - 10:30:09.967	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+31000/09/1010 - 10:30:09.967	info	/home/x14n/code/goproj/x14n/x14n-gin-api/main.go:14	server start	{"application": "chat-room"}
+2023/10/31 - 10:31:06.008	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+2023/10/31 - 10:31:06.008	info	/home/x14n/code/goproj/x14n/x14n-gin-api/main.go:14	server start	{"application": "chat-room"}
+2023/10/31 - 11:07:31.347	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+2023/10/31 - 11:07:31.347	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:13	开始数据库连接	{"application": "chat-room"}
+2023/10/31 - 11:07:31.347	warn	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:31	数据库连接失败	{"application": "chat-room"}
+2023/10/31 - 11:08:58.918	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+2023/10/31 - 11:08:58.919	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:13	开始数据库连接	{"application": "chat-room"}
+2023/10/31 - 11:08:58.919	warn	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:31	数据库连接失败	{"application": "chat-room"}
+2023/10/31 - 11:10:05.813	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+2023/10/31 - 11:10:05.813	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:13	开始数据库连接	{"application": "chat-room"}
+2023/10/31 - 11:10:05.814	warn	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:31	数据库连接失败	{"application": "chat-room"}
+2023/10/31 - 11:12:00.618	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+2023/10/31 - 11:12:00.618	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:13	开始数据库连接	{"application": "chat-room"}
+2023/10/31 - 11:12:00.618	warn	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:31	数据库连接失败	{"application": "chat-room"}
+2023/10/31 - 11:14:11.904	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+2023/10/31 - 11:14:11.904	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:13	开始数据库连接	{"application": "chat-room"}
+2023/10/31 - 11:14:11.905	warn	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:31	数据库连接失败	{"application": "chat-room"}
+2023/10/31 - 11:14:49.161	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+2023/10/31 - 11:14:51.966	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:13	开始数据库连接	{"application": "chat-room"}
