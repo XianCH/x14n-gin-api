@@ -1,0 +1,8 @@
+2023/11/01 - 11:40:05.792	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+2023/11/01 - 11:40:05.792	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:13	开始数据库连接	{"application": "chat-room"}
+2023/11/01 - 11:40:05.793	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:41	初始化完成	{"application": "chat-room"}
+2023/11/01 - 11:40:05.793	info	/home/x14n/code/goproj/x14n/x14n-gin-api/server/server.go:44	
+【当前环境:dev 当前版本：v1.0.0 接口地址: http://0.0.0.0:8080】
+	{"application": "chat-room"}
+2023/11/01 - 11:40:18.942	debug	/home/x14n/code/goproj/x14n/x14n-gin-api/api/vi/user.go:15	haha尝试登录	{"application": "chat-room"}
+2023/11/01 - 11:40:18.945	error	/home/x14n/code/goproj/x14n/x14n-gin-api/api/vi/user.go:24	用户登录失败	{"application": "chat-room", "user": {"id":0,"uuid":"","username":"haha","password":"3953","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}

@@ -1,0 +1,9 @@
+2023/11/01 - 11:24:41.542	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+2023/11/01 - 11:24:41.542	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:13	开始数据库连接	{"application": "chat-room"}
+2023/11/01 - 11:24:41.544	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:41	初始化完成	{"application": "chat-room"}
+2023/11/01 - 11:24:41.544	info	/home/x14n/code/goproj/x14n/x14n-gin-api/server/server.go:44	
+【当前环境:dev 当前版本：v1.0.0 接口地址: http://0.0.0.0:8080】
+	{"application": "chat-room"}
+2023/11/01 - 11:32:20.096	debug	/home/x14n/code/goproj/x14n/x14n-gin-api/api/vi/user.go:15	x14n尝试登录	{"application": "chat-room"}
+2023/11/01 - 11:32:47.367	debug	/home/x14n/code/goproj/x14n/x14n-gin-api/api/vi/user.go:15	x14n尝试登录	{"application": "chat-room"}
+2023/11/01 - 11:32:53.332	debug	/home/x14n/code/goproj/x14n/x14n-gin-api/api/vi/user.go:15	haha尝试登录	{"application": "chat-room"}

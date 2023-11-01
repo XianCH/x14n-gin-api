@@ -1,0 +1,4 @@
+2023/11/01 - 09:22:16.487	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/initLog_2.go:78	logger init success!	{"application": "chat-room"}
+2023/11/01 - 09:22:16.487	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:13	开始数据库连接	{"application": "chat-room"}
+2023/11/01 - 09:22:16.488	info	/home/x14n/code/goproj/x14n/x14n-gin-api/initliza/gorm.go:41	初始化完成	{"application": "chat-room"}
+2023/11/01 - 09:22:16.488	info	/home/x14n/code/goproj/x14n/x14n-gin-api/main.go:15	server start	{"application": "chat-room"}
