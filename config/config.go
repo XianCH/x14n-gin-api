@@ -50,3 +50,9 @@ type gorm struct {
 	TablePrefix     string `yaml:"tablePrefix"`                              // 表前缀
 	SingularTable   bool   `yaml:"singularTable"`                            //是否使用单数表名(默认复数)，启用后，User结构体表将是user
 }
+
+type Jwt struct {
+	Securt     string        `yaml:"securt"`
+	Issure     string        `yaml:"issure"`
+	ExpireTime time.Duration `yaml:"expireTime"`
+}
