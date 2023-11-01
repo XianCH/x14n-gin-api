@@ -17,8 +17,13 @@ func InitViperConfig() {
 	}
 	v := viper.New()
 	v.SetConfigFile(configFile)
-	if err := v.ReadConfig(); err != nil {
-		panic(fmt.Errorf("读取配置文件失败:%s\n", err))
+	if err := v.ReadInConfig(); err != nil {
+		panic(fmt.Errorf("配置解析失败:%s\n", err))
 	}
+	//动态监控配置文件
 
+	if err := v.Unmarshal(&global.GConfig); err != nil {
+		panic(fmt.Errorf("配置失败:%s", err))
+	}
+	global.GConfig.App.ConfigFile = configFile
 }
