@@ -14,3 +14,10 @@ type User struct {
 	UpdateAt *time.Time `json:"updateAt"`
 	DeleteAt int64      `json:"deleteAt"`
 }
+
+type UserInfo struct {
+	BaseModel
+	Uid      uint   `json:"uid" gorm:"comment:用户id"`
+	Birthday string `json:"birthday" gorm:"type:varchar(10);comment:生日"`
+	Address  string `json:"address" gorm:"type:text;comment:地址"`
+}

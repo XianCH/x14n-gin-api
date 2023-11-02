@@ -1,3 +1,8 @@
 package model
 
-func  
+import "github.com/golang-jwt/jwt"
+
+type UserCliams struct {
+	*jwt.StandardClaims
+	Uid uint
+}
