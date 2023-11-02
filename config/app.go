@@ -12,7 +12,7 @@ type ServerConfig struct {
 	App   app   `yaml:"app"`
 	Mysql mysql `yaml:"mysql"`
 	Log   log   `yaml:"log"`
-	jwt   Jwt   `yaml:"jwt"`
+	Jwt   Jwt   `yaml:"jwt"`
 	// Jwt     jwt     `yaml:"jwt"`
 	// Redis   redis   `yaml:"redis"`
 	// Elastic elastic `yaml:"elastic"`
